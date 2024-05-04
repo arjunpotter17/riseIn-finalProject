@@ -79,4 +79,4 @@ This project is licensed under the MIT License.
 Thank you for your interest in the Movie Review DApp project! For questions or suggestions, feel free to reach out or open an issue on GitHub. Happy reviewing. 
 
 ## Deployment
-This project is deployed on the internet using vercel. The link is - 
+This project is deployed on the internet using vercel. The link is - https://rise-in-final-project.vercel.app/
