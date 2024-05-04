@@ -5,7 +5,10 @@ import {
 } from "@solana/wallet-adapter-react";
 import { WalletModalProvider } from "@solana/wallet-adapter-react-ui";
 import * as web3 from "@solana/web3.js";
+/* eslint-disable */
+// @ts-ignore
 import * as walletAdapterWallets from "@solana/wallet-adapter-wallets";
+/* eslint-enable */
 
 require("@solana/wallet-adapter-react-ui/styles.css");
 
